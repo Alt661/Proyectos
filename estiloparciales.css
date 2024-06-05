@@ -1,0 +1,35 @@
+
+HTML {BACKGROUND-COLOR: #00E0CD;} /*DEFINE EL COLOR DE FONDO DE LA PAGINA*/
+
+P {font-family: Yanone Kaffeesatz;}
+
+#menu ul {list-style:none; margin:0; padding:0;} /*PARA QUITAR LOS SIMBOLOS DE LA LISTA*/
+   
+#menu ul li {background-color:#00988B;} /*CAMBIA EL COLOR DE FONDO DEL MENU*/
+   
+#menu ul a {display:block; color:#fff; text-decoration:none; font-weight:400; font-size:15px; padding:20px; font-family:"HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; text-transform:uppercase; letter-spacing:1px;} /*DEFINE EL TAMAÑO DEL MENU, EL TAMAÑO DE LA LETRA Y EL TIPO DE FUENTE*/
+   
+#menu ul li {position:relative; float:left; margin:0; padding:0;} /*DEFINE LA POSICION DEL MENU EN LA PAGINA*/
+   
+#menu ul li:hover {background:#01564E;} /*DEFINE EL COLOR DEL MENU AL PASAR EL CURSOR POR ENCIMA*/
+   
+#menu ul ul {display:none; position:absolute; top:100%; left:0; background:#eee; padding:0;} /*HACE QUE AL PASAR EL CURSOR POR ENCIMA DE UNO DE LOS ELEMENTOS DEL MENU, ESTE NO SE MUEVA DE SU POSICION*/
+   
+#menu ul li:hover > ul {display:block;} /*HACE QUE AL PASAR EL CURSOR POR ENCIMA DE UN ELEMENTO DEL MENU, SE VEAN LAS OTRAS OPCIONES JUSTO ABAJO*/
+
+.parrafo {display:flex; background-color:#00988B; height:45px;}
+
+.p1 {margin-left:35px; margin-top:15px;}
+
+.p2 {margin-left:1035px; margin-top:15px;}
+
+.nomas {display:flex; background-color:#00988B; height:57px;}
+
+.nom {margin-left:135px; margin-top:20px;}
+
+.as {margin-left:100px; margin-top:20px;}
+
+
+
+
+
