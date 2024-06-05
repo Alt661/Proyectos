@@ -17,13 +17,13 @@ P {font-family: Yanone Kaffeesatz;}
    
 #menu ul li:hover > ul {display:block;} /*HACE QUE AL PASAR EL CURSOR POR ENCIMA DE UN ELEMENTO DEL MENU, SE VEAN LAS OTRAS OPCIONES JUSTO ABAJO*/
 
-.parrafo {display:flex; background-color:#00988B; height:45px;}
+.parrafo {display:flex; background-color:#00988B; height:45px; color:white;}
 
 .p1 {margin-left:35px; margin-top:15px;}
 
-.p2 {margin-left:1035px; margin-top:15px;}
+.p2 {margin-left:935px; margin-top:15px;}
 
-.nomas {display:flex; background-color:#00988B; height:57px;}
+.nomas {display:flex; background-color:#00988B; height:57px; color:white;}
 
 .nom {margin-left:135px; margin-top:20px;}
 
