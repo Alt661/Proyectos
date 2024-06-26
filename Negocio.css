@@ -1,0 +1,10 @@
+
+HTML {BACKGROUND-COLOR: #BD1313;} /*DEFINE EL COLOR DE FONDO DE LA PAGINA*/
+
+#menu p {margin: 1px; padding: 20px;} 
+   
+#menu p {background-color:#800f0f;} /*CAMBIA EL COLOR DE FONDO DEL MENU*/
+   
+#menu p a {color:#fff; text-decoration:none; font-weight:400; font-size:15px; padding:20px; font-family:"HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; text-transform:uppercase; letter-spacing:1px;} /*DEFINE EL TAMAÑO DEL MENU, EL TAMAÑO DE LA LETRA Y EL TIPO DE FUENTE*/
+   
+#menu p a:hover {background:#c90e0e;} /*DEFINE EL COLOR DEL MENU AL PASAR EL CURSOR POR ENCIMA*/
